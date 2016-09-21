@@ -23,3 +23,5 @@ Appears in the Lower Left Quadrant, in the second "Trial" Sector.
 Where r = radius, and t = theta; the degrees in radians. with 0/360 degrees being the typical right hand x line rotating in an anti-clockwise direction.
 
 See http://en.wikipedia.org/wiki/Polar_coordinates for more details.
+
+**Note:** Changes must be made to the 'gh-pages' branch so as to get them reflected in github page.
